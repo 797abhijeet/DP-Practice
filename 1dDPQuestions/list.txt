@@ -1,0 +1,56 @@
+25 Important 1D DP Questions
+🟢 Beginner Level (DP basics: recurrence, memo, tabulation)
+
+Fibonacci Number
+
+Climbing Stairs (ways to reach n-th stair)
+
+Min Cost Climbing Stairs
+
+House Robber I
+
+Ninja Training (1D version) — choose daily activity, no repetition.
+
+Frog Jump (CodeStudio DP 1) — Min energy with |h[i]–h[i-1]| or |h[i]–h[i-2]|
+
+Frog Jump K steps — Min energy with up to K backward jumps.
+
+Maximum Sum of Non-Adjacent Elements (variation of House Robber)
+
+Decode Ways (Ways to decode string like "226")
+
+Perfect Squares — Min number of perfect squares to sum to N.
+
+🟡 Medium Level (Classic 1D DP patterns)
+
+Longest Increasing Subsequence (LIS) – O(n²) (1D DP version)
+
+Partition Equal Subset Sum
+
+Subset Sum Problem
+
+Coin Change II (number of ways)
+
+Coin Change I (min coins required)
+
+Delete and Earn (House Robber variation)
+
+Palindromic Substrings (DP over string indices, 1D optimized version)
+
+Longest Palindromic Subsequence – optimized
+
+Unbounded Knapsack (space optimized 1D DP)
+
+0/1 Knapsack (space optimized 1D DP)
+
+🔴 Advanced Level (Hard 1D DP logic)
+
+Word Break I (DP + HashSet)
+
+Number of Arithmetic Slices
+
+Paint Fence Problem (ways to paint with k colors, no ≥3 same adjacent)
+
+Perfect Sum with negative numbers (1D offset DP)
+
+Count of LIS (not just LIS length, but total number of LIS)
